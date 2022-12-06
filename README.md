@@ -5,6 +5,7 @@
 
 <h3>Languages</h3>
 - JAVA<br>
+- C#<br>
 - PHP<br>
 - JS<br>
 - HTML<br>
